@@ -1,5 +1,5 @@
 # StarWarp:Lens-distortion-correction-based-on-StarGAN
-This repository is the outcome of final year project:StarWarp. In this project, after reviewing some of the mainstream research outcome in deep learning-based image translation, we constructed our lens distortion removing system based on deep learning method.
+This repository is the outcome of final year project:StarWarp. This project implement a stargan likes model and use it as a lens distortion correction solution. The effect of this project is still limited due to lack of datasets, time, and computing resources.
 
 # Environment
 python                    3.8.10            
