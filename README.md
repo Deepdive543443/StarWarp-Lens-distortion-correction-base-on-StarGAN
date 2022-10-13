@@ -1,7 +1,7 @@
 # StarWarp:Lens-distortion-correction-based-on-StarGAN
 This repository is the outcome of final year project: StarWarp. This project is a implementation of paper 'The GAN that Warped: Semantic Attribute Editing with Unpaired Data'. It modifies the StarGAN to translate images to warpfields. Warpfields keeps most of the detail of original images. It also could be scaled to apply different degree of editting, or applied on higher resolution.
 
-The effect of this project is still limited due to lack of datasets, time, and computing resources.
+The effect of this project is still limited due to lack of datasets, time, and computing resources, but it shows this model has potential to be used in photograph enhancing tasks. Includes the lens distortion correction we tried in this project.
 ![image](https://user-images.githubusercontent.com/83911295/195697536-01670e85-7599-4c3d-aacc-2004bf9b6127.png)
 
 
